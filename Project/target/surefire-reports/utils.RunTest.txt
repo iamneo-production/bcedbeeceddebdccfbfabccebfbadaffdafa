@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: utils.RunTest
 -------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.21 s - in utils.RunTest
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.466 s - in utils.RunTest
